@@ -1,0 +1,19 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 50p;
+}
+.name-business{
+    color: blue;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left:2%;
+    padding-left:0%;
+}
+.half-width img{
+    width: 100%;
+}
