@@ -29,6 +29,7 @@ p{
     background-repeat: no-repeat;
 }
 section{
+    text-align: center;
     height: 500px;
     padding-bottom: 150px;   
 }
@@ -38,22 +39,21 @@ section{
    padding: 10px 20px;
    border-radius: 10px;
    color:white;
-   color-width: 700px;
-
+   width: 700px;
 }
+.image-size{
+    widows: 30%;
+    height:100%;
+    float:left;
+}
+
 .work-Area{
     background-image: url("image/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
 
-}
-.single-exprerience{
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
-    height: 80%;
-    background-color: white;
-}
-.experience-work{
+.LASTET WORKING PROJECT{
     background-image: url("image/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
@@ -63,7 +63,21 @@ section{
     border-image: linear-gradient(180deg,lightsalmon,tomato);
     border-image-slice: 1;
 }
-#Hala-business{
+#remontely-work{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue, cyan);
+    border-image-slice: 1;
+}
+.Work Inquiry{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100%;
+    background-color:blue;
+
+}
+.jubaer{
+    width:500px;
+    height:150px;
     border-left: 7px solid;
     border-image: linear-gradient(180deg,blue, cyan);
     border-image-slice: 1;
