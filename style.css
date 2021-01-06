@@ -23,6 +23,12 @@ p{
 }
 .half-width img{
     width: 100%;
+
+}
+.image-size{
+
+    width:30px;
+    height:100px;
 }
 .top-banner{
     background-image: url("image/top-banner.png");
@@ -42,11 +48,10 @@ section{
    width: 700px;
 }
 .image-size{
-    widows: 30%;
+    width:30%;
     height:100%;
     float:left;
 }
-
 .work-Area{
     background-image: url("image/dream-bg.png");
     background-repeat: no-repeat;
@@ -73,14 +78,6 @@ section{
     border-radius: 5px;
     height: 100%;
     background-color:blue;
-
-}
-.jubaer{
-    width:500px;
-    height:150px;
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg,blue, cyan);
-    border-image-slice: 1;
 }
 footer p{
     text-align: center;
